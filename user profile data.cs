@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6298e1e9a31e870c4c0ef159"},"first_name":"william","last_name":"sheppard","email_id":"williamsh@yahoo.ca","pwd":"will22#","confirm_pwd":"will22#","access_user":"researcher","date_of_birth":"06-06-1987","gender":"male","contact_no":"7958697890","department":"neural networks"}
